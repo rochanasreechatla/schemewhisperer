@@ -1,0 +1,122 @@
+[
+  {
+    "name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+    "category": "Agriculture",
+    "benefit": "Rs. 6,000/year direct income support, paid in 3 installments of Rs. 2,000 every four months, via Direct Benefit Transfer (DBT) to bank account",
+    "eligibility": "Landholding farmer families (small and marginal farmers); only one member per family can be a beneficiary",
+    "documents_required": ["Aadhaar card", "Land ownership records", "Bank account (Aadhaar-seeded)", "Mobile number linked to Aadhaar"],
+    "how_to_apply": "pmkisan.gov.in or nearest Common Service Centre (CSC)",
+    "processing_notes": "e-KYC is mandatory to keep receiving installments — can be done via Aadhaar OTP online, the PM Kisan app, or biometric verification at a CSC",
+    "citizen_experience_notes": "By 2026 the scheme had disbursed direct payments to more than 9 crore farmer families across multiple installments, and many beneficiaries report the money arriving reliably each cycle. That said, real friction points are well documented: incorrect bank/Aadhaar details, missed e-KYC, and land record mismatches are the most common reasons installments get delayed or names get removed from the beneficiary list. Some states have also seen sharp drops in active beneficiaries after eligibility clean-ups. Practical tip for users: keep Aadhaar-bank linkage and land records updated, and check status on the portal each cycle rather than assuming payment will arrive automatically."
+  },
+  {
+    "name": "Ayushman Bharat (PM-JAY)",
+    "category": "Healthcare",
+    "benefit": "Health insurance cover up to Rs. 5 lakh/year per family for secondary and tertiary hospitalization; seniors 70+ covered separately regardless of income",
+    "eligibility": "Economically weaker families as per SECC database; senior citizens 70+ (universal, income-independent)",
+    "documents_required": ["Aadhaar card", "Ration card or family ID", "Ayushman card (generated after verification)"],
+    "how_to_apply": "pmjay.gov.in, nearest Ayushman Bharat empanelled hospital, or CSC",
+    "processing_notes": "Coverage only applies at hospitals empanelled under the scheme — always confirm empanelment status before admission, as it can change",
+    "citizen_experience_notes": "A hospital-based study at AIIMS Delhi found the large majority of patients had no problems using the scheme and were satisfied with the ease of access, though a meaningful minority were still asked to buy some medicines outside the covered list. Other real cases reported in the press show a mixed picture: some patients received free, life-saving treatment (including chemotherapy) they otherwise couldn't have afforded, while others found empanelled hospitals unreachable, unwilling to take calls, or no longer covering the needed treatment when they tried to use the card in an emergency. The practical lesson for users: confirm hospital empanelment and covered treatments in advance where possible, not only during a health crisis."
+  },
+  {
+    "name": "PM Awas Yojana (PMAY - Urban & Gramin)",
+    "category": "Housing",
+    "benefit": "Subsidised home loans / financial assistance for pucca house construction, released in installments as construction progresses",
+    "eligibility": "Economically Weaker Section (EWS), Low Income Group (LIG), or rural households without a pucca house, verified via SECC 2011 / Awaas+ survey",
+    "documents_required": ["Aadhaar card", "Income certificate", "Land/property documents", "Bank account details"],
+    "how_to_apply": "pmaymis.gov.in (urban) or pmayg.nic.in (rural)",
+    "processing_notes": "Installments are released only after each construction stage is geo-tagged and verified by a field officer — this verification step is the most common cause of delay",
+    "citizen_experience_notes": "Government audits and news reports both point to the same recurring issue: installment delays caused by pending geo-tag or field verification, which in turn stalls construction. Documented cases range from minor (a few weeks' wait for a Patwari's verification visit) to serious (multi-year delays leaving families in limbo). On the positive side, official guidance shows a working grievance path — Right to Information (RTI) requests and the portal's public grievance section have successfully unstuck delayed cases in several documented instances. Practical tip: if an installment is delayed, check whether field verification is pending before assuming there's a bigger problem, and use the formal grievance/RTI route if follow-up with local officials doesn't resolve it."
+  },
+  {
+    "name": "PM Surya Ghar: Muft Bijli Yojana",
+    "category": "Energy",
+    "benefit": "Subsidy up to Rs. 78,000 for rooftop solar installation; up to 300 units free electricity/month",
+    "eligibility": "Households with a valid electricity connection and a suitable rooftop",
+    "documents_required": ["Electricity bill/connection details", "Aadhaar card", "Bank account details", "Roof ownership proof"],
+    "how_to_apply": "pmsuryaghar.gov.in",
+    "processing_notes": "Subsidy is disbursed after a registered vendor completes installation and it passes inspection by the local electricity distribution company",
+    "citizen_experience_notes": null
+  },
+  {
+    "name": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+    "category": "Women & Child",
+    "benefit": "Cash incentive for pregnant and lactating mothers, for their first living child",
+    "eligibility": "Pregnant/lactating women, for their first child",
+    "documents_required": ["Aadhaar card", "Bank account details", "Mother and Child Protection (MCP) card"],
+    "how_to_apply": "Nearest Anganwadi Centre or pmmvy.wcd.gov.in",
+    "processing_notes": "Paid in installments tied to pregnancy registration, ante-natal checkups, and child immunization milestones",
+    "citizen_experience_notes": null
+  },
+  {
+    "name": "Atal Pension Yojana (APY)",
+    "category": "Pension",
+    "benefit": "Guaranteed monthly pension (Rs. 1,000-5,000) after age 60, based on contribution amount",
+    "eligibility": "Unorganised sector workers, age 18-40, with a bank account",
+    "documents_required": ["Aadhaar card", "Bank account", "Mobile number"],
+    "how_to_apply": "Any bank or post office branch",
+    "processing_notes": "Monthly/quarterly contribution amount is fixed based on age of entry and desired pension amount",
+    "citizen_experience_notes": null
+  },
+  {
+    "name": "PM Jan Dhan Yojana (PMJDY)",
+    "category": "Finance",
+    "benefit": "Zero-balance bank account with accident insurance (up to Rs. 2 lakh) and overdraft facility",
+    "eligibility": "Any unbanked Indian citizen",
+    "documents_required": ["Aadhaar card or any valid ID/address proof"],
+    "how_to_apply": "Any bank branch or Business Correspondent",
+    "processing_notes": "Account opens same-day in most cases with valid ID",
+    "citizen_experience_notes": null
+  },
+  {
+    "name": "National Scholarship Portal Schemes",
+    "category": "Education",
+    "benefit": "Scholarships for pre-matric, post-matric, and higher education students",
+    "eligibility": "Students from SC/ST/OBC/minority/EWS backgrounds, income criteria vary by scheme",
+    "documents_required": ["Aadhaar card", "Income certificate", "Caste certificate (if applicable)", "Previous year mark sheet", "Bank account details"],
+    "how_to_apply": "scholarships.gov.in",
+    "processing_notes": "Applications open in specific windows each academic year — missing the window means waiting for the next cycle",
+    "citizen_experience_notes": null
+  },
+  {
+    "name": "PM Vishwakarma Yojana",
+    "category": "Skill Development",
+    "benefit": "Collateral-free loans up to Rs. 3 lakh, skill training with stipend, and a toolkit incentive",
+    "eligibility": "Traditional artisans/craftspeople in 18 identified trades (carpentry, blacksmithing, pottery, etc.)",
+    "documents_required": ["Aadhaar card", "Trade certificate/proof of traditional occupation", "Bank account details"],
+    "how_to_apply": "pmvishwakarma.gov.in or nearest CSC",
+    "processing_notes": "Registration and verification by local bodies precedes loan/training access",
+    "citizen_experience_notes": null
+  },
+  {
+    "name": "MGNREGA (Mahatma Gandhi National Rural Employment Guarantee Act)",
+    "category": "Employment",
+    "benefit": "100 days of guaranteed wage employment per year for rural households",
+    "eligibility": "Adult members of rural households willing to do unskilled manual work",
+    "documents_required": ["Job card (issued by Gram Panchayat)", "Aadhaar card"],
+    "how_to_apply": "Local Gram Panchayat office",
+    "processing_notes": "Wages must legally be paid within 15 days of work; delays can be formally escalated to the Panchayat/Block office",
+    "citizen_experience_notes": null
+  },
+  {
+    "name": "Pradhan Mantri Mudra Yojana (PMMY)",
+    "category": "Entrepreneurship",
+    "benefit": "Collateral-free loans up to Rs. 10 lakh for micro/small businesses (Shishu, Kishor, Tarun categories by loan size)",
+    "eligibility": "Non-corporate, non-farm small/micro entrepreneurs",
+    "documents_required": ["Aadhaar card", "Business plan/proof of business activity", "Bank account details"],
+    "how_to_apply": "Any bank, NBFC, or MFI",
+    "processing_notes": "Loan category (Shishu/Kishor/Tarun) determines the maximum amount and typical processing time",
+    "citizen_experience_notes": null
+  },
+  {
+    "name": "PM Poshan (Mid-Day Meal Scheme)",
+    "category": "Education & Nutrition",
+    "benefit": "Free nutritious meals for school children",
+    "eligibility": "Students of Classes I-VIII in eligible government/government-aided schools",
+    "documents_required": [],
+    "how_to_apply": "Automatically provided through school enrollment — no separate application needed",
+    "processing_notes": "No individual application required; benefit is tied to school enrollment",
+    "citizen_experience_notes": null
+  }
+]

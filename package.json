@@ -1,0 +1,27 @@
+{
+  "name": "scheme-whisperer",
+  "version": "1.0.0",
+  "description": "AI-powered welfare scheme discovery, document readiness checklist, and grievance drafter for Indian citizens.",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test test/*.test.js"
+  },
+  "keywords": [
+    "welfare-schemes",
+    "india",
+    "gemini-api",
+    "open-innovation",
+    "civic-tech"
+  ],
+  "author": "Scheme Whisperer Team",
+  "license": "MIT",
+  "dependencies": {
+    "@google/genai": "^2.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
